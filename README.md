@@ -29,7 +29,7 @@ This project performs basic arithmetic operations such as addition, subtraction,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/calculator-mini-project.git
+   git clone https://github.com/Shaileshsorde/Calculator-Mini-Project.git
    Navigate to the project folder:
 
 cd calculator-mini-project
